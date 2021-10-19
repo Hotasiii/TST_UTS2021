@@ -1,7 +1,6 @@
 import time
-from typing import Dict
-
 import jwt
+from typing import Dict
 from decouple import config
 
 

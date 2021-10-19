@@ -1,20 +1,42 @@
 {
     "menu": [
         {
-            "id": 1,
-            "name": "Roti"
-        },
-        {   "id": 2,
+            "id": 2,
             "name": "Daging Sapi"
         },
-        {   "id": 3,
+        {
+            "id": 3,
             "name": "Sayur Kol"
         },
-        {   "id": 4,
+        {
+            "id": 4,
             "name": "Keju"
         },
-        {   "id": 5,
-            "name": "Acar"
+        {
+            "id": 5,
+            "name": "Pizza"
+        }
+    ],
+    "login_credential": [
+        {
+            "username": "abrahamhotasi",
+            "email": "18219083@std.stei.itb.ac.id",
+            "password": "TST_Hebat!"
+        },
+        {
+            "username": "admin",
+            "email": "admin@std.stei.itb.ac.id",
+            "password": "administrator"
+        },
+        {
+            "username": "hotasiii",
+            "email": "abrahamhotasi@gmail.com",
+            "password": "bramganteng"
+        },
+        {
+            "username": "aa",
+            "email": "11",
+            "password": "aaa"
         }
     ]
 }
