@@ -1,3 +1,20 @@
 {
-    "menu": []
+    "menu": [
+        {
+            "id": 1,
+            "name": "Roti"
+        },
+        {   "id": 2,
+            "name": "Daging Sapi"
+        },
+        {   "id": 3,
+            "name": "Sayur Kol"
+        },
+        {   "id": 4,
+            "name": "Keju"
+        },
+        {   "id": 5,
+            "name": "Acar"
+        }
+    ]
 }
